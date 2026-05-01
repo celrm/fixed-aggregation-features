@@ -1,4 +1,7 @@
-# Fixed Aggregation Features Can Rival GNNs
+# Fixed Aggregation Features Can Rival GNNs (ICML 2026)
+
+[![arXiv](https://img.shields.io/badge/arXiv-2601.19449-b31b1b.svg)](https://arxiv.org/abs/2601.19449)
+[![ICML](https://img.shields.io/badge/ICML-2026-orange.svg)](https://openreview.net/forum?id=gSZhNPp103)
 
 >Celia Rubio-Madrigal, Rebekka Burkholz.
 >CISPA Helmholtz Center for Information Security.
@@ -54,9 +57,9 @@ If you found this work helpful, please consider citing our paper:
 rubio-madrigal2026fixed,
 title={Fixed Aggregation Features Can Rival {GNN}s},
 author={Celia Rubio-Madrigal and Rebekka Burkholz},
+booktitle={Forty-third International Conference on Machine Learning},
 year={2026},
+url={https://openreview.net/forum?id=gSZhNPp103}
 }
 ```
-
-
 
